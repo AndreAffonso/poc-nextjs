@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[11],{"/h+U":function(n,t,e){(window.__NEXT_P=window.__NEXT_P||[]).push(["/tabela-pipe",function(){return e("Pmmr")}])},Pmmr:function(n,t,e){"use strict";e.r(t);var u=e("q1tI"),i=e.n(u),w=e("wOhW"),o=i.a.createElement;t.default=function(){return o(w.a,null,o("div",null,"TABELA PIPE"))}}},[["/h+U",1,0]]]);

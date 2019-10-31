@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{"8Qlt":function(n,t,e){(window.__NEXT_P=window.__NEXT_P||[]).push(["/pedir-reembolso",function(){return e("qOJP")}])},qOJP:function(n,t,e){"use strict";e.r(t);var o=e("q1tI"),u=e.n(o),i=e("wOhW"),w=u.a.createElement;t.default=function(){return w(i.a,null,w("div",null,"PEDIR REEMBOLSO"))}}},[["8Qlt",1,0]]]);
