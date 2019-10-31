@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{"7QY3":function(n,t,u){(window.__NEXT_P=window.__NEXT_P||[]).push(["/termos",function(){return u("x1qO")}])},x1qO:function(n,t,u){"use strict";u.r(t);var e=u("q1tI"),o=u.n(e),w=u("wOhW"),i=o.a.createElement;t.default=function(){return i(w.a,null,i("div",null,"TERMOS"))}}},[["7QY3",1,0]]]);

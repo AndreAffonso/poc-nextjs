@@ -1,0 +1,7 @@
+{
+    "eslint.enable": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "html.format.indentInnerHtml": true,
+    "prettier.singleQuote": true
+}

@@ -1,0 +1,24 @@
+// {
+//   "env": {
+//     "jest": true
+//   },
+//   "extends": ["airbnb", "plugin:react/recommended", "prettier", "prettier/react"],
+//   "rules": {
+//     "react/jsx-filename-extension": [
+//       1,
+//       {
+//         "extensions": [".js", ".jsx"]
+//       }
+//     ],
+//     "prettier/prettier": [
+//       "error",
+//       {
+//         "singleQuote": true,
+//         "trailingComma": "all",
+//         "printWidth": 120
+//       }
+//     ]
+//   },
+//   "parser": "babel-eslint",
+//   "plugins": ["jest", "prettier"]
+// }
